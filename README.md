@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a keen interest in
 - 🤔 I’m looking for help with Game development and Cyber security
 - 💬 Ask me about web development, SOC Analysis, and JavaScript.
 - 📫 How to reach me: [Your Email](mailto:mmaudace@gmail.com)
-- ⚡ Fun fact: I love playing solitaire and solving puzzles.
+- ⚡ Fun fact: I love playing Tetris
 
 ## GitHub Statistics
 
