@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I'm a passionate developer with a keen interest in
 ![MUGWANEZAMANZI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUGWANEZAMANZI&show_icons=true&theme=radical)
 
 <!-- Optional: Include additional statistics such as top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical&langs_count=10&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical&langs_count=15&hide=html,css)
 
 
 
