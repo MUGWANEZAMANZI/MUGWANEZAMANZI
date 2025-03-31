@@ -16,3 +16,6 @@ Welcome to my GitHub profile. I'm a passionate developer with a keen interest in
 
 <!-- Optional: Include additional statistics such as top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical)
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact
