@@ -12,12 +12,6 @@ Welcome to my GitHub profile. I'm a passionate developer with a keen interest in
 
 ## GitHub Statistics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MUGWANEZAMANZI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MUGWANEZAMANZI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MUGWANEZAMANZI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
