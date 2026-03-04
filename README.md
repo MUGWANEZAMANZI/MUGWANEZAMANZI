@@ -1,18 +1,35 @@
-# Hi, I'm MUGWANEZAMANZI! 👋
+Hi, I'm MUGWANEZA MANZI Audace! 👋 🇷🇼
+I'm a Computer Science student at the University of Rwanda and the founder of Kigali Web Artisans. I specialize in building AI-powered solutions and web ecosystems that solve real-world problems in Rwanda and beyond.
 
-Welcome to my GitHub profile. I'm a passionate developer with a keen interest in creating innovative solutions and learning new technologies. Here's a little bit about me:
+🔭 Current Focus: Scaling Dorm Link and developing Artisan Suite.
 
-- ⚡ Fun fact: I love playing Tetris
-- 📫 How to reach me: [Your Email](mailto:mmaudace@gmail.com)
-- 🧩 LeetCode: [kM54AuXGaW](https://leetcode.com/u/kM54AuXGaW/)
+🤖 AI/ML: Creator of Mbaza Ubutabera AI (Legal Advice) and Imboni AI (Computer Vision).
 
-## GitHub Statistics
+🎓 Education: Pursuing CS at University of Rwanda (Class of 2027) & A2SV Trainee.
 
----
-[![](https://visitcount.itsvg.in/api?id=MUGWANEZAMANZI&icon=0&color=0)](https://visitcount.itsvg.in)
+⚡ Fun fact: I'm a Tetris enthusiast.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![MUGWANEZAMANZI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUGWANEZAMANZI&show_icons=true&theme=radical)
+📫 Reach me: mmaudace@gmail.com
 
-<!-- Optional: Include additional statistics such as top languages -->
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical&langs_count=15&hide=html,css)
+🛠 Tech Stack
+Web & Desktop
+
+AI & Game Dev
+
+🚀 Top Projects
+Dorm Link: A platform revolutionizing housing searches in Rwanda.
+
+Mbaza Ubutabera AI: Making legal guidance accessible through artificial intelligence.
+
+Imboni AI: Computer vision project for road safety, presented to the National Police.
+
+Artisan Suite: A unified desktop experience for all Kigali Web Artisans tools.
+
+📊 GitHub Statistics
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api%3Fusername%3DMUGWANEZAMANZI%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue" alt="MUGWANEZAMANZI's Stats" />
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/%3Fusername%3DMUGWANEZAMANZI%26layout%3Dcompact%26theme%3Dradical%26hide%3Dhtml,css" alt="Top Languages" />
+</p>
