@@ -28,8 +28,7 @@ Artisan Suite: A unified desktop experience for all Kigali Web Artisans tools.
 📊 GitHub Statistics
 Note: If stats below don't load, it's due to GitHub API rate limits. I recommend checking my repositories directly!
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MUGWANEZAMANZI&show_icons=true&theme=radical&count_private=true" alt="MUGWANEZAMANZI's Stats" />
+https://github-readme-stats.vercel.app/api?username=MUGWANEZAMANZI&show_icons=true&theme=radical&count_private=true
 
 
 
