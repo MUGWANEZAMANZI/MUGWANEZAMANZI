@@ -26,14 +26,8 @@ Imboni AI: Computer vision project for road safety, presented to the National Po
 Artisan Suite: A unified desktop experience for all Kigali Web Artisans tools.
 
 📊 GitHub Statistics
-Note: If stats below don't load, it's due to GitHub API rate limits. I recommend checking my repositories directly!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical)
 
-https://github-readme-stats.vercel.app/api?username=MUGWANEZAMANZI&show_icons=true&theme=radical&count_private=true
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical&hide=html,css&include_all_commits=true" alt="Top Languages" />
-</p>
 
 💼 Kigali Web Artisans
 We provide professional software craftsmanship, specializing in:
