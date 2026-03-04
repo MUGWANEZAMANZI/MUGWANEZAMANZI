@@ -1,5 +1,5 @@
 Hi, I'm MUGWANEZA MANZI Audace! 👋 🇷🇼
-I'm a Computer Science student at the University of Rwanda and the founder of Kigali Web Artisans. I specialize in building AI-powered solutions and web ecosystems that solve real-world problems in Rwanda and beyond.
+I'm a Computer Science student at the University of Rwanda and the founder of Kigali Web Artisans. I specialize in building AI-powered solutions and web ecosystems that solve real-world problems.
 
 🔭 Current Focus: Scaling Dorm Link and developing Artisan Suite.
 
@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Rwanda and the founder of Ki
 
 📫 Reach me: mmaudace@gmail.com
 
-🛠 Tech Stack
+🛠 Tech Stack & Skills
 Web & Desktop
 
 AI & Game Dev
@@ -26,10 +26,23 @@ Imboni AI: Computer vision project for road safety, presented to the National Po
 Artisan Suite: A unified desktop experience for all Kigali Web Artisans tools.
 
 📊 GitHub Statistics
+Note: If stats below don't load, it's due to GitHub API rate limits. I recommend checking my repositories directly!
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api%3Fusername%3DMUGWANEZAMANZI%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue" alt="MUGWANEZAMANZI's Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMUGWANEZAMANZI%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" alt="MUGWANEZAMANZI's Stats" />
 
 
 
-<img src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/%3Fusername%3DMUGWANEZAMANZI%26layout%3Dcompact%26theme%3Dradical%26hide%3Dhtml,css" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMUGWANEZAMANZI%26layout%3Dcompact%26theme%3Dradical%26hide%3Dhtml,css%26include_all_commits%3Dtrue" alt="Top Languages" />
 </p>
+
+💼 Kigali Web Artisans
+We provide professional software craftsmanship, specializing in:
+
+Custom Web Applications (Laravel/React)
+
+AI Integration & Computer Vision
+
+Desktop Solutions with NativePHP
+
+🧩 Connectivity
