@@ -3,7 +3,8 @@
 Welcome to my GitHub profile. I'm a passionate developer with a keen interest in creating innovative solutions and learning new technologies. Here's a little bit about me:
 
 - ⚡ Fun fact: I love playing Tetris
-- - 📫 How to reach me: [Your Email](mailto:mmaudace@gmail.com)
+- 📫 How to reach me: [Your Email](mailto:mmaudace@gmail.com)
+- 🧩 LeetCode: [kM54AuXGaW](https://leetcode.com/u/kM54AuXGaW/)
 
 ## GitHub Statistics
 
@@ -14,8 +15,4 @@ Welcome to my GitHub profile. I'm a passionate developer with a keen interest in
 ![MUGWANEZAMANZI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUGWANEZAMANZI&show_icons=true&theme=radical)
 
 <!-- Optional: Include additional statistics such as top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical&langs_count=15&hide=html,css)
-
-
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MUGWANEZAMANZI&layout=compact&theme=radical&langs_count=15&hide=html,css)
