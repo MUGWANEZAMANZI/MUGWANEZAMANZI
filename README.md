@@ -1,5 +1,5 @@
 Hi, I'm MUGWANEZA MANZI Audace! 👋 🇷🇼
-I'm a Computer Science student at the University of Rwanda. I specialize in building.
+I'm a Computer Science student at the University of Rwanda.
 
 🔭 Current Focus: Scaling Dorm Link and developing Artisan Suite.
 
