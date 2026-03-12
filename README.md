@@ -1,7 +1,3 @@
 Hi, I'm MUGWANEZA MANZI Audace! 👋 🇷🇼
-I'm a Computer Science student at the University of Rwanda.
-
-🔭 Current Focus: Scaling Dorm Link and developing Artisan Suite.
-
-⚡ Fun fact: I'm a Tetris enthusiast.
+I tell computers what to do, and somehow they actually listen. 💻😄
 📫 Reach me: mmaudace@gmail.com
